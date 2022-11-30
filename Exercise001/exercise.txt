@@ -1,0 +1,11 @@
+01. Um deque geral deve prover as seguintes operações: procedimento insereInicio(ref D: Deque, x: <TElem>)
+
+    procedimento insereFim(ref D: Deque, x: <TElem>)
+    função removeInicio(ref D: Deque): <TElem>
+    função removeFim(ref D: Deque): <TElem>
+    função buscaInicio(ref D: Deque): <TElem>
+    função buscaFim(ref D: Deque): <TElem>
+
+    Defina o estrutura Deque e escreva os procedimentos e funções acima de forma análoga ao realizado com Pilhas e Filas. 
+    Considere o uso da alocação tanto sequencial quanto encadeada. 
+

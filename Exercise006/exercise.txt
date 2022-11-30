@@ -1,0 +1,2 @@
+6.  Criar uma variação de pilha, chamada de PilhaMin, que, além de fornecer as operações de pilha em tempo constante, 
+    define a operação função obterMinimo(ref P: PilhaMin): <TElem>

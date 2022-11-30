@@ -1,0 +1,15 @@
+5.  Escreva um algoritmo que dada uma fila F, inverta a ordem dos elementos de F. 
+    Seu algoritmo deve usar espaço auxiliar constante (somente variáveis locais e nenhum vetor extra) e:
+    
+    a) Uma Pilha
+    b) Duas Filas
+
+    Seu algoritmo deve manipular as pilhas e filas por suas interfaces padrão (somente métodos do TAD). 
+
+    Observação: 
+    Pensamento utilizado para a resolução do exercicio.
+    [A B C D E F ]   [ F ]           [ F ]           [ F E ]         [ F E ]     [ F E D]    [ F E D]    [ F E D C]  [ F E D C]  [ F E D C B]    [ F E D C B A]
+    [ ]              [ A B C D E ]   [ A B C D ]     [ A B C D ]     [ D ]       [ ]         [ A B ]     [ A B ]     [ B ]       [ ]             [ ]
+    [ ]              [ ]             [ E ]           [ ]             [ A B C]    [ A B C]    [ C ]       [ ]         [ A ]       [ A ]           [ ]
+
+    

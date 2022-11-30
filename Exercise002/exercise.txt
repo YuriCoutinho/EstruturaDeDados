@@ -1,0 +1,9 @@
+2.  Reescreva as operações de Pilha utilizando duas Filas como estrutura de dados auxiliar para guardar os elementos. 
+    Manipule as filas por suas interfaces padrão. 
+
+
+    Operações da Pilha:
+
+    Top     [ Consultar o Topo ]
+    Push    [ Empilhar ]
+    Pop     [ Desempilhar ]
